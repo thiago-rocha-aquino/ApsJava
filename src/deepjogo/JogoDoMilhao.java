@@ -154,71 +154,71 @@ public class JogoDoMilhao {
 
         // Pergunta 1
         perguntas.add(new Pergunta(
-                "Qual é o tipo de retorno de um método que não retorna valor?",
-                Arrays.asList("int", "void", "String", "boolean"),
+                "Qual meio ajuda a reduzir o trânsito e poluição?",
+                Arrays.asList("Carro", "Bicicleta", "Avião", " Moto"),
                 1
         ));
 
         // Pergunta 2
         perguntas.add(new Pergunta(
-                "Qual palavra-chave é usada para herança em Java?",
-                Arrays.asList("implements", "inherits", "extends", "super"),
+                "Melhor forma de economizar água?",
+                Arrays.asList("Deixar torneira aberta", "Regar ao meio-dia", "Varrer calçada", "Lavar com mangueira"),
                 2
         ));
 
         // Pergunta 3
         perguntas.add(new Pergunta(
-                "Qual desses NÃO é um tipo primitivo em Java?",
-                Arrays.asList("int", "float", "String", "boolean"),
+                " Como evitar o descarte incorreto do lixo?",
+                Arrays.asList(" Jogar no bueiro", "Queimar o lixo no quintal", "Separar recicláveis e orgânicos ", "Deixar na calçada sempre"),
                 2
         ));
 
         // Pergunta 4
         perguntas.add(new Pergunta(
-                "Qual método é chamado quando um objeto é criado?",
-                Arrays.asList("main()", "constructor", "init()", "start()"),
+                "Por que é importante preservar áreas verdes em uma metrópole?",
+                Arrays.asList("Para evitar a construção de prédios altos", "para Melhorar o ar e clima", "Atrair turismo", "Porque aumentam o preço dos imóveis"),
                 1
         ));
 
         // Pergunta 5
         perguntas.add(new Pergunta(
-                "Qual desses é um loop em Java?",
-                Arrays.asList("if", "switch", "for", "try"),
+                "Qual dessas atitudes é mais sustentável no cotidiano urbano?",
+                Arrays.asList("Comprar produtos com muita embalagem", "Usar carro para deslocamentos curtos", "Reutilizar e consumir com consciência", " Lavar calçadas todos os dias"),
                 2
         ));
 
         // Pergunta 6
         perguntas.add(new Pergunta(
-                "Qual classe é usada para ler entrada do usuário no console?",
-                Arrays.asList("Scanner", "Input", "Reader", "System"),
+                "O que significa mobilidade urbana sustentável?",
+                Arrays.asList("uso de transportes coletivos", "A construção de mais rodovias", "O uso de carros de luxo", "A construção de estacionamentos"),
                 0
         ));
 
         // Pergunta 7
         perguntas.add(new Pergunta(
-                "Qual modificador de acesso é o mais restritivo?",
-                Arrays.asList("public", "protected", "private", "default"),
+                "Como a poluição sonora pode afetar as pessoas?",
+                Arrays.asList("Reduzindo o trânsito", "Melhorando o sono", "Causando estresse e zumbidos", "Aumentando a produtividade"),
                 2
         ));
 
         // Pergunta 8
         perguntas.add(new Pergunta(
-                "Qual método é usado para comparar strings em Java?",
-                Arrays.asList("equals()", "compare()", "==", "match()"),
+                "Qual o risco do lixo eletrônico?",
+                Arrays.asList("Solo e água contaminadas", "Falta de energia", "Poluição visual", "Tráfego de dados pessoais"),
                 0
         ));
 
         // Pergunta 9
         perguntas.add(new Pergunta(
-                "Qual desses é um operador lógico em Java?",
-                Arrays.asList("+", "&&", "++", "="),
+                "Como economizar água na cidade?",
+                Arrays.asList("Mangueira na calçada", "Reuso e captar chuva", "Torneira aberta", "Piscina todo dia"),
                 1
         ));
 
         // Pergunta 10
         perguntas.add(new Pergunta(
-                "Qual interface é usada para ordenação em Java?",
-                Arrays.asList("Runnable", "Serializable", "Comparable", "Cloneable"),
+                "Por que ensinar educação ambiental nas escolas?",
+                Arrays.asList("Mais provas escolares", "Para incentivar o consumismo", "Formar cidadãos conscientes", "Para reduzir outras aulas"),
                 2
         ));
 
